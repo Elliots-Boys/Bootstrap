@@ -12,3 +12,13 @@ a{color:#1456bc;text-underline-offset:3px}a:hover{color:#0c3d8b}a:focus-visible,
 footer{background:#102b46;color:#e2eaf3;padding:2rem;margin-top:1rem}footer p{font-size:.92rem;color:#c4d2e1;margin:1rem 0 0}.footer-brand{font-size:1.4rem;font-weight:750;color:white;text-decoration:none}.footer-brand:hover{color:#7bded5}.footer-links{display:flex;flex-wrap:wrap;gap:.65rem 1.5rem}.footer-links a{color:#dceaf9}.skip-link{position:absolute;top:-100px;left:1rem;background:white;padding:.7rem;z-index:1000}.skip-link:focus{top:1rem}
 @media(max-width:767px){main{padding:0 1rem 2rem}.navbar{padding:1rem}.navbar-collapse{padding-top:.75rem}.page-intro{padding:2rem 0 1.25rem}.carousel-item>img{height:310px;object-position:center top}.carousel-caption{left:10%;right:10%;bottom:1.7rem}.carousel-caption h2{font-size:1.15rem}.carousel-caption p{font-size:.8rem}.section-heading{flex-wrap:wrap;gap:.25rem}.card-body{padding:1.2rem}.guide{padding:1.25rem}.section-block{margin-top:2rem}footer{padding:1.5rem}}
 @media(prefers-reduced-motion:reduce){*,*::before,*::after{scroll-behavior:auto!important;transition:none!important;animation:none!important}}
+
+/* Original uploaded logo and homepage carousel. */
+.navbar-brand img,.footer-brand img{display:block;width:228px;height:76px;max-width:100%;object-fit:contain;background:white}
+#carouselExampleIndicators1{border-radius:0;background:grey}
+#carouselExampleIndicators1 .carousel-item>img{height:auto;object-fit:initial;object-position:initial;background:transparent}
+#carouselExampleIndicators1 .carousel-caption{right:15%;left:15%;bottom:1.25rem;padding:1.25rem 0;border-radius:0;background:transparent}
+#carouselExampleIndicators1 .carousel-caption h5{font-size:1.25rem;font-weight:500;letter-spacing:normal;margin-bottom:.5rem}
+#carouselExampleIndicators1 .carousel-caption p{font-size:1rem;color:white;margin-bottom:1rem}
+#carouselExampleIndicators1 .carousel-control-prev,#carouselExampleIndicators1 .carousel-control-next{width:15%}
+#carouselExampleIndicators1 .carousel-indicators{margin-bottom:1rem}
