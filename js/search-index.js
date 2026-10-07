@@ -224,5 +224,47 @@ window.IT_SEARCH_INDEX = [
     "href": "equipment.html#troubleshooting",
     "page": "IT equipment guide",
     "keywords": "help fix no internet no sound no picture"
+  },
+  {
+    "title": "IT learning routes",
+    "description": "Choose IT foundations, building a web page, or understanding your computer.",
+    "href": "index.html#learning-routes",
+    "page": "Home",
+    "keywords": "path tabs html css hardware"
+  },
+  {
+    "title": "Lesson notebook",
+    "description": "Keep notes for each hardware, software or networking video.",
+    "href": "tutorials.html#video-library",
+    "page": "Tutorials",
+    "keywords": "notes learning review"
+  },
+  {
+    "title": "IT revision cards",
+    "description": "Recall an idea, then reveal the answer before trying the quiz.",
+    "href": "topics.html#revision-cards",
+    "page": "IT Topics",
+    "keywords": "flashcards cpu ram ssd dns css router"
+  },
+  {
+    "title": "HTML and CSS example",
+    "description": "Compare a card’s HTML structure, CSS styling and example output.",
+    "href": "topics.html#coding",
+    "page": "IT Topics",
+    "keywords": "code web programming"
+  },
+  {
+    "title": "IT study planner",
+    "description": "Build a 15 or 30 minute session and tick off the steps.",
+    "href": "resources.html#study-planner",
+    "page": "Resources",
+    "keywords": "plan practice goal progress"
+  },
+  {
+    "title": "Compare computer components",
+    "description": "Compare the roles of a CPU, RAM, SSD and GPU.",
+    "href": "equipment.html#component-compare",
+    "page": "Equipment",
+    "keywords": "comparison processor memory storage graphics"
   }
 ];
